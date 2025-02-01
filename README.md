@@ -23,13 +23,7 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
+https://github.com/user-attachments/assets/39ec33c0-0445-4628-b042-4c5990010c29
 
 [![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
 
