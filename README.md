@@ -34,7 +34,7 @@ My animation showcased images of activities/items that I enjoy the most. The fir
 
 ## Image Filter Analysis
 
-I created 1 filter on my own called getAllBlue() and what it does is that it enchances the blue component of each pixel while reducing the amount of red and green. I included a parameter inside of the method called ColorNumber and it changes or adds the amount by which blue is increased and red/green are decreased. The other filter zeroGreen() is from Unit 5 Lesson 6 - Level 7C and it removes all  green color from the image by setting the green component of each pixel to zero. This makes the image appear with only red and blue tones. 
+I created 1 filter on my own called getAllBlue() and what it does is that it enchances the blue component of each pixel while reducing the amount of red and green. While the filter is running, each second it reduces the RGB value by 50 to eventually make the image entirely blue. I included a parameter inside of the method called ColorNumber and it changes or adds the amount by which blue is increased and red/green are decreased. The other filter zeroGreen() is from Unit 5 Lesson 6 - Level 7C and it removes all  green color from the image by setting the green component of each pixel to zero. This makes the image appear with only red and blue tones. 
 
 
 
