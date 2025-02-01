@@ -1,6 +1,6 @@
 # Personal-Narrative-Project
 My project for Unit 5 APCSA.
-# Unit 4 - Personal Narrative
+# Unit 5 - Personal Narrative
 
 ## Introduction
 
@@ -28,10 +28,13 @@ https://github.com/user-attachments/assets/39ec33c0-0445-4628-b042-4c5990010c29
 
 ## Story Description
 
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+My animation showcased images of activities/items that I enjoy the most. The first image I put in my project, is the city of Chicago because I always go there 1-2 times a year to visit family. The second image I picked was mint chocolate chip icecream and I displayed this because it is my favorite desert to eat. The third image i displayed was the ocean because I always enjoy going there and swimming. The last image I displayed was a race track because I am currently on the track team and enjoy running everyday. In my first 2D array, the image files and sounds are stored in a grid (2 X 2) and we can call them by giving the specific row/column when writing a method. These are the sound effects and visuals on the animation. In my second 2D array, there are multiple words that are being stored in a (3 x 3) grid. Each row of words represents details about the specific image and will get printed out on the visual. 
+
+
 
 ## Image Filter Analysis
 
-Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+I created 1 filter on my own called getAllBlue() and what it does is that it enchances the blue component of each pixel while reducing the amount of red and green. I included a parameter inside of the method called ColorNumber and it changes or adds the amount by which blue is increased and red/green are decreased. The other filter zeroGreen() is from Unit 5 Lesson 6 - Level 7C and it removes all  green color from the image by setting the green component of each pixel to zero. This makes the image appear with only red and blue tones. 
+
 
 
